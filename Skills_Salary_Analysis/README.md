@@ -38,15 +38,15 @@ An analysis exploring the relationship between skills, salaries, and job roles i
 - Removed unnecessary columns
 - Cleaned text and trimmed whitespace
 
-![Transform Jobs](/0_Resources/Images/2_Project_Analysis_Screenshot1.png)
+![Transform Jobs](/Images//2_Project_Analysis_Screenshot1.png)
 
-![Transform Skills](/0_Resources/Images/2_Project_Analysis_Screenshot2.png)
+![Transform Skills](/Images//2_Project_Analysis_Screenshot2.png)
 
 **Load:** Loaded both queries into the workbook for analysis.
 
 ### Analysis
 
-![Skills vs Salary Chart](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+![Skills vs Salary Chart](/Images//2_Project_Analysis_Chart1.png)
 
 **Findings:**
 - Positive correlation between number of skills requested and median salary
@@ -79,7 +79,7 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 
 ### Analysis
 
-![US vs International](/0_Resources/Images/2_Project_Analysis_Chart2.png)
+![US vs International](/Images//2_Project_Analysis_Chart2.png)
 
 **Findings:**
 - US salaries are consistently higher across all roles
@@ -96,13 +96,13 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 
 Created a relationship between the two tables using `job_id`:
 
-![Data Model](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)
+![Data Model](/Images//2_Project_Analysis_Screenshot5.png)
 
 This allows analysis across both job information and skills in a single pivot table.
 
 ### Analysis
 
-![Top Skills](/0_Resources/Images/2_Project_Analysis_Chart3.png)
+![Top Skills](/Images//2_Project_Analysis_Chart3.png)
 
 **Findings:**
 - SQL and Python dominate across all data roles
@@ -124,7 +124,7 @@ Created a combo chart plotting:
 
 ### Analysis
 
-![Skills Pay Chart](/0_Resources/Images/2_Project_Analysis_Chart4.png)
+![Skills Pay Chart](/Images//2_Project_Analysis_Chart4.png)
 
 **Findings:**
 - Python, Oracle, and SQL are associated with highest median salaries

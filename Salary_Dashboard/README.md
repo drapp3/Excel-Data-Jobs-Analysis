@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![Dashboard Demo](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![Dashboard Demo](/Images//1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Overview
 
@@ -31,7 +31,7 @@ Real-world data science job postings from 2023 containing:
 
 ### Salary by Job Title - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Bar Chart">
+<img src="/Images//1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Bar Chart">
 
 - Horizontal bar chart comparing median salaries across roles
 - Sorted descending for easy comparison
@@ -39,7 +39,7 @@ Real-world data science job postings from 2023 containing:
 
 ### Country Salaries - Map Chart
 
-![Country Map](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![Country Map](/Images//1_Salary_Dashboard_Country_Map.gif)
 
 - Geographic visualization of salary differences
 - Color-coded by salary level
@@ -81,7 +81,7 @@ Real-world data science job postings from 2023 containing:
 
 ## Data Validation Setup
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Data Validation Demo">
+<img src="/Images//1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Data Validation Demo">
 
 Three dropdown menus control the dashboard:
 - **Job Title** - Select from 10 data roles
